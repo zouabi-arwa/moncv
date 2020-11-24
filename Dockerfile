@@ -19,4 +19,4 @@ COPY --from=build /site/public /usr/share/nginx/html
 
 WORKDIR /usr/share/nginx/html
 
-#docker run -p 8080:1313 container_name
+#docker run -p 8080:80 container_name
