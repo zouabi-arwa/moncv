@@ -149,7 +149,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
         [params.social]
-        enable = true
+        enable = false
 
         [[params.social.list]]
         icon = "fab fa-github-square"
